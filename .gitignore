@@ -1,10 +1,14 @@
 # Compiled class file
 *.class
 
+#ds_store
+
+.DS_Store
+
 # Log file
 *.log
 
-//idea files
+#idea files
 .idea
 .idea/
 .idea/*
