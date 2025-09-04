@@ -138,6 +138,6 @@ GROUP BY c.customer_status;
 - Follow proper SQL naming conventions as demonstrated
 
 ## 🎓 Course Information
-**Course:** Enterprise Java Development 3.02  
+**Course:**  FullStack Web Development  / module backend Development
 **Institution:** Ironhack  
 **Focus:** SQL Database Design and Analysis
